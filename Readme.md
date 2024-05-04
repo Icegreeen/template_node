@@ -20,7 +20,7 @@ yarn add express pg typeorm dotenv reflect-metadata
 ### Install dev dependencies:
 
 ```
-yarn add -D typescript nodemon ts-node @typescript/express @types/node
+yarn add -D typescript nodemon ts-node @types/express @types/node
 ```
 
 #### Install middleware error:
